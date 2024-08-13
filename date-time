@@ -1,6 +1,6 @@
 (function(){
             /* change these variables as you wish */
-            var due_date = new Date('2024-08-13');
+            var due_date = new Date('2024-02-13');
             var days_deadline = 60;
             /* stop changing here */
             
