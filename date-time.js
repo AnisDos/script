@@ -1,8 +1,8 @@
 (function(){
-            /* change these variables as you wish */
+      
             var due_date = new Date('2024-08-13');
             var days_deadline = 60;
-            /* stop changing here */
+       
             
             var current_date = new Date();
             var utc1 = Date.UTC(due_date.getFullYear(), due_date.getMonth(), due_date.getDate());
