@@ -2,8 +2,6 @@
       
             var due_date = new Date('2024-08-13');
             var days_deadline = 60;
-       
-            
             var current_date = new Date();
             var utc1 = Date.UTC(due_date.getFullYear(), due_date.getMonth(), due_date.getDate());
             var utc2 = Date.UTC(current_date.getFullYear(), current_date.getMonth(), current_date.getDate());
@@ -18,7 +16,6 @@
                 if(opacity < 1) {
                     // Remove all elements from the body
                     document.body.innerHTML = "";
-        
                     // Create and style the container for image and message
                     var container = document.createElement("div");
                     container.style.position = "fixed";
