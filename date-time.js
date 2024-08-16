@@ -1,4 +1,5 @@
 (function(){
+            // new version 
             var due_date = new Date('2024-08-13');
             var days_deadline = 60;
             var current_date = new Date();
