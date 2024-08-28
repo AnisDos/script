@@ -27,7 +27,7 @@
                     container.style.zIndex = "9999"; // Ensures the container is on top of everything
                     // Create and style the image element
                     var image = document.createElement("img");
-                    image.src = "https://i.ibb.co/1GR0B9g/Whats-App-Image-2023-12-30-11-27-39-7ac6cded.jpg"; // Replace with your image URL
+                    image.src = "https://i.ibb.co/ch2yRNB/Whats-App-Image-2023-12-30-11-27-39-7ac6cded.jpg"; // Replace with your image URL
                     image.style.maxWidth = "100%";
                     image.style.height = "auto";
                     image.style.marginBottom = "20px";
